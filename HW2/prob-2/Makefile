@@ -1,5 +1,5 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for HW2 Problem 2
 #
 # The Build Rules for This Program
 #
